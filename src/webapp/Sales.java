@@ -8,5 +8,7 @@ public class Sales {
     //.......
     //more sales coming
     //this is new page
+    //deals
+    //added holiday off
 
 }
